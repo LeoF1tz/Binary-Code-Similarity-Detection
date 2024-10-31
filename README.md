@@ -1,5 +1,4 @@
 # Binary-Code-Similarity-Detection
-Markdown about Papers of Binary Code Similarity Detection
 | Title | Year | Venue | Author | Institution | Paper | Markdown | Github | 
 |:-----:|:----:|:-----:|:------:|:-----------:|:--------:|:-----:|:------:|
 | Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features | 2024 | USEINX | Jialai Wang | Tsinghua University | [link](https://www.usenix.org/system/files/usenixsecurity24-wang-jialai.pdf) | [link](https://github.com/LeoF1tz/Binary-Code-Similarity-Detection/blob/main/md/2024_USENIX_Improving_ML-based_Binary_Function_Similarity_Detection_by.md) |   |
