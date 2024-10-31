@@ -1,7 +1,7 @@
 # Binary-Code-Similarity-Detection
 Markdown about Papers of Binary Code Similarity Detection
 | Title | Year | Venue | Author | Institution | Paper | Markdown | Github | 
-|-------|-------|------|--------|-------------|----------|-------|--------|
+|:-----:|:----:|:-----:|:------:|:-----------:|:--------:|:-----:|:------:|
 | Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features | 2024 | USEINX | Jialai Wang | Tsinghua University | [link](https://www.usenix.org/system/files/usenixsecurity24-wang-jialai.pdf) | [link](https://github.com/LeoF1tz/Binary-Code-Similarity-Detection/blob/main/md/2024_USENIX_Improving_ML-based_Binary_Function_Similarity_Detection_by.md) |   |
 | Code is not Natural Language: Unlock the Power of Semantics-Oriented Graph Representation for Binary Code Similarity Detection | 2024 | USEINX | Haojie He | Shanghai Jiaotong University | [link](https://www.usenix.org/system/files/sec24summer-prepub-346-he.pdf) | [link](https://github.com/LeoF1tz/Binary-Code-Similarity-Detection/blob/main/md/2024_USEINX_Code%20is%20not%20Natural%20Language%3A%20Unlock%20the%20Power%20of%20Semantics-Oriented%20Graph%20Representation%20for%20Binary%20Code%20Similarity%20Detection.md) | [link](https://github.com/NSSL-SJTU/HermesSim) |
 | Cross-Inlining Binary Function Similarity Detection | 2024 | ICSE | Ang Jia | Xi'an Jiaotong University | [link](https://github.com/island255/cross-inlining_binary_function_similarity) | [link](https://github.com/LeoF1tz/Binary-Code-Similarity-Detection/blob/main/md/2024_ICSE_Cross-Inlining%20Binary%20Function%20Similarity%20Detection.md) |   |
