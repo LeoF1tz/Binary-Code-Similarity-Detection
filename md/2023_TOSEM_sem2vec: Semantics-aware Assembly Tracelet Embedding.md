@@ -1,4 +1,4 @@
-| **Title** | Asteria-Pro: Enhancing Deep Learning-based Binary Code Similarity Detection by Incorporating Domain Knowledge |
+| **Title** | sem2vec: Semantics-aware Assembly Tracelet Embedding |
 |----------|-------------------------------------------------------------------------------------|
 | **Author** | Huaijin Wang |
 | **Institution** | Hong Kong University of Sience and Technology |
