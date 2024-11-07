@@ -1,9 +1,9 @@
 | **Title** | ReIFunc: Identifying Recurring Inline Functions in Binary Code |
 |----------|-------------------------------------------------------------------------------------|
-| **Author** | Huaijin Wang |
-| **Institution** | Hong Kong University of Sience and Technology |
-| **Venue** | TOSEM |
-| **Year** | 2023 |
+| **Author** | Wei Lin |
+| **Institution** | Chinese Academy of Sciences |
+| **Venue** | SANER |
+| **Year** | 2024 |
 
 # ABSTRACT
 1. 本文方法：子图重构+深度学习的方式识别内联函数
