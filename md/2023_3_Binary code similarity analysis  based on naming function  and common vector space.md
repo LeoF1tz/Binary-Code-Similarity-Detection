@@ -56,6 +56,7 @@
 
 
 # 3. MODEL OVERVIEW
+![alt text](<images/2023_3_Binary code similarity analysis  based on naming function  and common vector space/img-2.png>) 
 ## 3.1. Framework
 1. 图嵌入 $F^{\to}_g$ 
    1. 通过预训练的 `x2v` 词嵌入字典将**指令映射为向量**
